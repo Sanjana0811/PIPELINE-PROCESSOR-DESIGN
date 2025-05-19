@@ -13,3 +13,7 @@
 **MENTOR**: NEELA SANTHOSH
 
 # DESCRIPTION OF TASK AND PICTURES OF OUTPUT
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/6ba5212a-2331-4300-aa3e-778ee0b82a9b)
